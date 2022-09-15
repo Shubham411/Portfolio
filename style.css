@@ -564,9 +564,9 @@ input,textarea,select{
   padding-bottom: 40px;
 }
 .project .project-item{
-  -ms-flex: 0 0 33.33%;
-  flex: 0 0 33.33%;
-  max-width: 33.33%;
+  -ms-flex: 0 0 50.33%;
+  flex: 0 0 50.33%;
+  max-width: 50.33%;
   display: flex;
 }
 .project .project-item-inner{
